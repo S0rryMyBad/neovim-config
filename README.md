@@ -1,6 +1,6 @@
 # vim-config
 
-![screenshot](http://i.imgur.com/kGurmw9.png)
+![screenshot](http://i.imgur.com/yE5LDoW.png)
 
 I've been forcing myself to use vim, and this is the config that I use.
 this config optimizes for javascript/clojurescript development, so fork/edit it if you use neither.
