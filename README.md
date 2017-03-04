@@ -8,7 +8,7 @@ this config optimizes for javascript/clojurescript development, so fork/edit it 
 ## Installations
 
 ```sh
-$ git clone https://github.com/betmenwasdie/nvim ~/.config/nvim
+$ git clone https://github.com/betmenwasdie/neovim-config ~/.config/nvim
 $ ln -s ~/.config/nvim/init.vim ~/.vimrc # Optional, if you still use vim
 ```
 
