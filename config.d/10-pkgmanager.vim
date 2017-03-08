@@ -7,6 +7,9 @@ endif
 call plug#begin('$HOME/.config/nvim/packages')
 
 Plug 'tpope/vim-sensible'
+Plug 'neovimhaskell/haskell-vim'
+Plug 'vim-scripts/slimv.vim'
+Plug 'josephbreihan/vim-arcsight'
 Plug 'godlygeek/tabular'
 Plug 'plasticboy/vim-markdown'
 Plug 'rking/ag.vim'
@@ -27,7 +30,7 @@ Plug 'w0ng/vim-hybrid'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'heavenshell/vim-jsdoc'
-" Plug 'ryanoasis/vim-devicons'
+Plug 'ryanoasis/vim-devicons'
 Plug 'tpope/vim-git'
 Plug 'tpope/vim-fugitive'
 Plug 'Raimondi/delimitMate'
