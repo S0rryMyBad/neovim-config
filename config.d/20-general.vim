@@ -21,6 +21,7 @@ set nobackup
 set noswapfile
 set showmatch
 set wrapscan
+set mouse=a
 
 set wildignore+=tmp/*,.tmp/*,dist/*,.dist/*
 set wildignore+=*.so,*.swp,*.zip
